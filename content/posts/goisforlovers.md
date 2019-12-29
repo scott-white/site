@@ -8,6 +8,7 @@ tags:
 - development
 title: (Hu)go Template Primer
 toc: true
+draft: true
 ---
 
 Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for

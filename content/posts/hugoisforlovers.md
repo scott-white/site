@@ -7,6 +7,7 @@ tags:
 - development
 title: Getting Started with Hugo
 toc: true
+draft: true
 ---
 
 ## Step 1. Install Hugo
