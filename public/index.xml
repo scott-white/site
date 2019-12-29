@@ -23,16 +23,6 @@ This site is a work in progress and will be updated more soon. For now take a lo
     </item>
     
     <item>
-      <title>Welcome</title>
-      <link>https://scott-white.netlify.com/welcome/</link>
-      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://scott-white.netlify.com/welcome/</guid>
-      <description>Hey there!
-This site is a work in progress and will be updated more soon. For now take a look at my welcome page :)</description>
-    </item>
-    
-    <item>
       <title>The &#34;figure&#34; Shortcode</title>
       <link>https://scott-white.netlify.com/posts/the-figure-shortcode/</link>
       <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
@@ -118,6 +108,15 @@ Follow the following steps:
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Greetings!</title>
+      <link>https://scott-white.netlify.com/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scott-white.netlify.com/welcome/</guid>
+      <description>Sections  Resources Blogs Software Books  Hey there, Scott here, and I&amp;rsquo;m working towards my Masters in Statistics. I have spent a lot of time over the last several years reading material on personal development as the idea relates to most areas of life. When I come across people I inevitably want to share some of this information, and accompanying resources, with them. The only problem is I sometimes only have a few minutes with them, so this leads to the problem of how do I maximise my interaction with them.</description>
     </item>
     
   </channel>
