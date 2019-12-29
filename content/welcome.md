@@ -1,6 +1,6 @@
 ---
 date: "2019-12-28"
-title: About
+title: Welcome
 ---
 
 Hey there!
