@@ -9,11 +9,11 @@ title: "Greetings!"
 * [Software](#software)
 * [Books](#books)
 
-Hey there, Scott here, and I'm working towards my Masters in Statistics. I have spent a lot of time over the last several years reading material on personal development as the idea relates to most areas of life. When I come across people I inevitably want to share some of this information, and accompanying resources, with them. The only problem is I sometimes only have a few minutes with them, so this leads to the problem of how do I maximise my interaction with them. So that's the idea for my site, The Helping Hand.
+I have spent a lot of time over the last several years reading material on personal development as the idea relates to most areas of life. When I come across people I inevitably want to share some of this information, and accompanying resources, with them. The only problem is I sometimes only have a few minutes with them, so this leads to the problem of how do I maximise my interaction with them. So that's the idea for my site.
 
 On this website I will try to share as many useful ideas I can. Sometimes they will take the form of posts, and other times it will just be short links to other places I have relied on myself. Everything I share here will be something I have personally applied to my life in some way.
 
-So the first idea I want to share with you is **[the need to start](https://jamesclear.com/optimal)**. It's an idea that gets thrown around everywhere, but that's because it's so important. If you don't start somewhere, then nothing will come of an idea. No matter how great it is. This website is currently an embodiment of it. There's a single page on this site right now, and it's not too fancy, but it'll serve my purpose for the moment. I plan on learning more about Jekyll to generate a more organized site over the summer, but until then this will have to do.
+So the first idea I want to share with you is **[the need to start](https://jamesclear.com/optimal)**. It's an idea that gets thrown around everywhere, but that's because it's so important. If you don't start somewhere, then nothing will come of an idea. No matter how great it is.
 
 Without further ado...
 
